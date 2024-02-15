@@ -1,7 +1,7 @@
   <h1>Olá me chamo Jessey Angel! Tenho 24 anos, Brasileiro!</h1> 
   <p> 🪪 Trabalho atualmente na área de Web Design, como freelancer. Estudante de ADS na Estacio 4° semestre. </p>
   <p> 💻 Atualmente estudando e focado em C#, .NET e SQL Server pela <a href="https://www.alura.com.br/" target="_blank"> Alura.</a> </p>
-  <p> 📚 Aqui esta meu <a href="https://ranjas-project.vercel.app/#" target="_blank"> Portifolio.</a> </p>
+  <p> 📚 Aqui esta meu <a href="https://rangel-resumo.vercel.app/index.html" target="_blank"> Portifolio.</a> </p>
   
  <div align="center"><br>
   <img align="center" alt="jessey-HTML" height="30" width="40" 
